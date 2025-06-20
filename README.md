@@ -1,2 +1,2 @@
 # ico-converter
-Ico converter
+Makes a .ico version of images
